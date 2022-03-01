@@ -26,6 +26,10 @@
 	margin-left:32px;
 }
 
+.image-response3{
+	margin-left:20px;
+}
+
 .scale-height1{
   height:30vw;
 }
@@ -40,6 +44,10 @@
 
 .scale-height4{
   height:30vw;
+}
+
+.scale-height5{
+  height:30.5vw;
 }
 
 .scale-font1{
@@ -95,7 +103,9 @@
 .scale-height3{
   height:40vw;
 }
-
+.scale-height5{
+  height:26vw;
+}
 .image-response1{
 	margin-left:20px;
 }
@@ -106,7 +116,7 @@
 }
 
 .parallax {
-  background-image: url("website/../images/plant1.jpg");
+  background-image: url("images/plant1.jpg");
   min-height: 300px;
   max-height: 450px; 
 
@@ -126,6 +136,7 @@
 	height: 1%;
 
 }
+
 .centered{
 	position: absolute;
 	top: 30%;
