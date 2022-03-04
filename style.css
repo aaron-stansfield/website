@@ -117,11 +117,11 @@
 
 .parallax {
   background-image: url("images/plant1.jpg");
-  min-height: 300px;
-  max-height: 450px; 
+  min-height: 20vw;
+  max-height: 300vw; 
 
   border-radius: 5px;
-  margin-bottom: 5px;
+  margin-bottom: 0.7vw;
   background-attachment: fixed;
   background-position: center;
   background-repeat: no-repeat;
@@ -199,7 +199,7 @@ body{
 
 
 .rounded-corners{
-	border-radius:10px
+	border-radius:0.7vw;
 }
 
 .header {
@@ -266,12 +266,10 @@ body{
 .footer{
 	background-color: #0056bc;
 	color: #00bc88;
-	padding-left:0px;
-	margin-top:5px;
-	margin-right:0px;
-	margin-top:5px;
-	margin-bottom:5px;
-	border-radius: 15px;
+	margin-top:0.7vw;
+	margin-top:0.7vw;
+	margin-bottom:0.7vw;
+	border-radius: 0.7vw;
 	padding: 5px;
 	width:99%;
 	box-shadow: 0 1px 3px rgba(0,0,0,0.5), 0 1px 2px rgba(0,0,0,0.5);
